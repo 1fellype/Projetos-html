@@ -8572,12 +8572,12 @@ textarea.form-control-lg {
 
 .mb-0 {
     margin-bottom: 0!important;
-    color: black;
+    color: rgb(90, 86, 86);
 }
 
 .mb-1 {
     margin-bottom: .25rem!important;
-    color: black;
+    color: rgb(90, 86, 86);
 }
 
 .mb-2 {
