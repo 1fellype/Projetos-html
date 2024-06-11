@@ -71,6 +71,7 @@
 
     
 <header data-bs-theme="dark">
+  <div id="google_translate_element"></div>
   <div class="collapse text-bg-dark" id="navbarHeader">
     <div class="container">
       <div class="row">
@@ -576,6 +577,17 @@
   </div>
 </footer>
 <script src="./assets/dist/js/bootstrap.bundle.min.js"></script>
+<script src="script.js"></script>
+      <script type="text/javascript">
+        function googleTranslateElementInit() {
+            new google.translate.TranslateElement(
+                {pageLanguage: 'en'},
+                'google_translate_element'
+            );
+        } 
+  </script>
+  <script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
-    </body>
+
+</body>
 </html>
