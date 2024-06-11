@@ -6,16 +6,6 @@
     user-select: none;
   }
 
-#google_translate_element {
-  background-color: #007bff; /* Cor de fundo azul */
-  color: #fff; /* Cor da fonte branca */
-  border: none; /* Remover borda */
-  border-radius: 5px; /* Arredondar cantos */
-  padding: 10px 20px; /* Ajuste o espaçamento interno */
-  cursor: pointer; /* Indicar que é clicável */
-  transition: background-color 0.3s; /* Efeito de transição ao passar o mouse */
-}
-
   @media (min-width: 768px) {
     .bd-placeholder-img-lg {
       font-size: 3.5rem;
