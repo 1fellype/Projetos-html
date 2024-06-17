@@ -6,7 +6,7 @@
 
  - Projeto construído durante o curso PROPROFISSÃO.
 
- - Para tornar a navegação mais acessível o site conta com uma API de Acessibilidade e de Tradução para mais de 120 Línguas.
+ - Para tornar a navegação mais acessível o site conta com uma API de Acessibilidade e Libras, e com uma API de Tradução para mais de 120 Línguas.
 
 ## Acesso 👨🏻‍💻
  [Clique aqui para acessar! :)](https://projetoshtml-fellype.vercel.app)
